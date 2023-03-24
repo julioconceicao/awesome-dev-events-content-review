@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Julio Conceição\\Documents\\dotnet.source\\AwesomeDevEvents.Project\\AwesomeDevEvents\\AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj": {}
+    "C:\\Users\\Julio Conceição\\Documents\\dotnet.source\\AwesomeDevEvents.Project\\awesome-dev-events-content-review\\AwesomeDevEvents\\AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Julio Conceição\\Documents\\dotnet.source\\AwesomeDevEvents.Project\\AwesomeDevEvents\\AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj": {
+    "C:\\Users\\Julio Conceição\\Documents\\dotnet.source\\AwesomeDevEvents.Project\\awesome-dev-events-content-review\\AwesomeDevEvents\\AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Julio Conceição\\Documents\\dotnet.source\\AwesomeDevEvents.Project\\AwesomeDevEvents\\AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj",
+        "projectUniqueName": "C:\\Users\\Julio Conceição\\Documents\\dotnet.source\\AwesomeDevEvents.Project\\awesome-dev-events-content-review\\AwesomeDevEvents\\AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj",
         "projectName": "AwesomeDevEvents.API",
-        "projectPath": "C:\\Users\\Julio Conceição\\Documents\\dotnet.source\\AwesomeDevEvents.Project\\AwesomeDevEvents\\AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj",
+        "projectPath": "C:\\Users\\Julio Conceição\\Documents\\dotnet.source\\AwesomeDevEvents.Project\\awesome-dev-events-content-review\\AwesomeDevEvents\\AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj",
         "packagesPath": "C:\\Users\\Julio Conceição\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julio Conceição\\Documents\\dotnet.source\\AwesomeDevEvents.Project\\AwesomeDevEvents\\AwesomeDevEvents.API\\obj\\",
+        "outputPath": "C:\\Users\\Julio Conceição\\Documents\\dotnet.source\\AwesomeDevEvents.Project\\awesome-dev-events-content-review\\AwesomeDevEvents\\AwesomeDevEvents.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julio Conceição\\AppData\\Roaming\\NuGet\\NuGet.Config",
